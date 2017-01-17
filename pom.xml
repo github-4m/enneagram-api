@@ -4,12 +4,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>id.co.blogspot.fathan</groupId>
-  <artifactId>jwt-implementation</artifactId>
+  <artifactId>enneagram-api</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>jwt-implementation</name>
-  <description>Demo project for Spring Boot</description>
+  <name>enneagram-api</name>
+  <description>Enneagram Service API</description>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
